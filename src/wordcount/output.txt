@@ -1,0 +1,5 @@
+The total number of words is: 700921
+The most frequently used word is: [the]
+The frequency of the most frequently used word is: 41534
+The number of characters (without whitespaces) is: 2270630
+The word boy occurs the following times: 0
